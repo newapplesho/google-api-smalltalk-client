@@ -1,0 +1,14 @@
+{
+	"category" : "GoogleAPI-Core",
+	"classinstvars" : [
+		"default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"settingsDict" ],
+	"name" : "GoogleAPISettings",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
