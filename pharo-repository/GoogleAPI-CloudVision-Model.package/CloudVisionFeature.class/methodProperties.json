@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"faceDetection" : "ShoYoshida 4/27/2016 00:23",
+		"labelDetection" : "ShoYoshida 4/27/2016 00:23",
+		"landmarkDetection" : "ShoYoshida 4/27/2016 00:23",
+		"logoDetection" : "ShoYoshida 4/27/2016 00:23",
+		"safeSearchDetection" : "ShoYoshida 4/27/2016 00:23",
+		"textDetection" : "ShoYoshida 4/24/2016 19:14" },
+	"instance" : {
+		"maxResults" : "ShoYoshida 4/24/2016 18:41",
+		"maxResults:" : "ShoYoshida 4/24/2016 18:41",
+		"type" : "ShoYoshida 4/24/2016 18:40",
+		"type:" : "ShoYoshida 4/24/2016 18:42" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "GoogleAPI-CloudVision-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CloudVisionImageSource",
+	"pools" : [
+		 ],
+	"super" : "NeoJSONObject",
+	"type" : "normal" }
