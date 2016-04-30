@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfGoogleAPI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfGoogleAPI",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
