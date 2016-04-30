@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"client" : "ShoYoshida 4/24/2016 15:41",
+		"createRequest" : "ShoYoshida 4/24/2016 18:17",
+		"defaultClient" : "ShoYoshida 4/24/2016 15:41",
+		"defaultResponseClass" : "ShoYoshida 4/24/2016 15:52",
+		"httpPost:contents:" : "ShoYoshida 4/24/2016 19:21",
+		"readJsonFromResponse:" : "ShoYoshida 4/24/2016 15:52",
+		"request:" : "ShoYoshida 4/24/2016 15:46",
+		"response" : "ShoYoshida 4/24/2016 19:21" } }

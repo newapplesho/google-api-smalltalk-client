@@ -1,0 +1,1 @@
+NeoJSONObject fromString: (ZnEasy get: 'https://vision.googleapis.com/$discovery/rest?version=v1') entity.

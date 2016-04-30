@@ -1,0 +1,14 @@
+{
+	"category" : "GoogleAPI-CloudVision-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ShoYoshida 4/24/2016 17:55",
+	"instvars" : [
+		"client" ],
+	"name" : "CloudVisionService",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

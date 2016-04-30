@@ -1,0 +1,14 @@
+{
+	"category" : "GoogleAPI-CloudVision-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"properties" ],
+	"name" : "CloudVisionException",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }
