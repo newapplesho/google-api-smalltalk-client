@@ -1,5 +1,8 @@
 # google-api-smalltalk-client
 
+# Supported Smalltalk Versions
+Pharo Smalltalk 4.0, 5.0
+
 ## Installation
 ```smalltalk
 Metacello new
