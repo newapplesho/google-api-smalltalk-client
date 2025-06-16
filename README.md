@@ -1,5 +1,7 @@
 # google-api-smalltalk-client
 
+Google Cloud libraries have been migrated to: https://github.com/newapplesho/google-cloud-smalltalk
+
 ## Supported Smalltalk Versions
 Pharo Smalltalk 4.0, 5.0
 
